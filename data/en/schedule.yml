@@ -10,7 +10,7 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/wordpress.png"
+          image : "/images/about/wordpress.png"
           content : "
           
           ### Introduction of material Design
@@ -22,7 +22,7 @@ schedule:
           
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/big-data.png"
+          image : "/images/about/big-data.png"
           content : "
           
           ### Marketing Matters in design area
@@ -34,7 +34,7 @@ schedule:
           
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/lunch.jpg"
+          image : "/images/about/lunch.jpg"
           content : "
           
           ### Launch Break
@@ -46,7 +46,7 @@ schedule:
           
         # schedule loop item
         - time : "2.00pm"
-          image : "images/about/creativity.jpg"
+          image : "/images/about/creativity.jpg"
           content : "
           
           ### Cultures of Creativity
@@ -62,7 +62,7 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "2.00pm"
-          image : "images/about/creativity.jpg"
+          image : "/images/about/creativity.jpg"
           content : "
           
           ### Cultures of Creativity
@@ -74,7 +74,7 @@ schedule:
 
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/wordpress.png"
+          image : "/images/about/wordpress.png"
           content : "
           
           ### Launch Break
@@ -86,7 +86,7 @@ schedule:
           
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/big-data.png"
+          image : "/images/about/big-data.png"
           content : "
           
           ### Marketing Matters in design area
@@ -102,7 +102,7 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/big-data.png"
+          image : "/images/about/big-data.png"
           content : "
           
           ### Marketing Matters in design area
@@ -114,7 +114,7 @@ schedule:
           
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/lunch.jpg"
+          image : "/images/about/lunch.jpg"
           content : "
           
           ### Launch Break
@@ -126,7 +126,7 @@ schedule:
 
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/wordpress.png"
+          image : "/images/about/wordpress.png"
           content : "
           
           ### Introduction of material Design
@@ -138,7 +138,7 @@ schedule:
           
         # schedule loop item
         - time : "2.00pm"
-          image : "images/about/creativity.jpg"
+          image : "/images/about/creativity.jpg"
           content : "
           
           ### Cultures of Creativity
